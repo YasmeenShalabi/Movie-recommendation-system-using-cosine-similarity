@@ -9,6 +9,7 @@ This project takes a small sample dataset of movies and their genres, transforms
 Given a movie title, the system returns the top two most similar movies based on genre similarity.
 
 **What This Project Demonstrates**
+
 Converting text into numerical vectors using TfidfVectorizer
 
 Computing similarity using cosine similarity
