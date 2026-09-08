@@ -21,7 +21,9 @@ Working with pandas DataFrames
 Understanding the basics of content‑based filtering
 
 
+
 ****How It Works****
+
 
 **TF‑IDF Vectorization**
 Converts genre text into weighted numerical vectors.
